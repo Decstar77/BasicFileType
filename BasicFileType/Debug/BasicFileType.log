@@ -1,0 +1,5 @@
+﻿  BasicFileType.cpp
+d:\code++\basicfiletype\basicfiletype\infoheader.h(5): warning C4081: expected 'identifier'; found '('
+d:\code++\basicfiletype\basicfiletype\fileheader.h(5): warning C4081: expected 'identifier'; found '('
+d:\code++\basicfiletype\basicfiletype\person.h(7): warning C4081: expected 'identifier'; found '('
+  BasicFileType.vcxproj -> D:\Code++\BasicFileType\Debug\BasicFileType.exe

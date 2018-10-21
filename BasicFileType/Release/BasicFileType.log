@@ -1,0 +1,10 @@
+﻿  BasicFileType.cpp
+d:\code++\basicfiletype\basicfiletype\infoheader.h(5): warning C4081: expected 'identifier'; found '('
+d:\code++\basicfiletype\basicfiletype\fileheader.h(5): warning C4081: expected 'identifier'; found '('
+d:\code++\basicfiletype\basicfiletype\person.h(7): warning C4081: expected 'identifier'; found '('
+  Generating code
+  1 of 212 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  BasicFileType.vcxproj -> D:\Code++\BasicFileType\Release\BasicFileType.exe
